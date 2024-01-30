@@ -7,7 +7,7 @@ import org.keycloak.models.KeycloakSession;
 import org.keycloak.storage.UserStorageProviderFactory;
 
 public class UserFirstIdStorageProviderFactory implements UserStorageProviderFactory<UserFirstIdStorageProvider> {
-    public static final String PROVIDER_ID = "First ID providers";
+    public static final String PROVIDER_ID = "First ID";
 
     private static final Logger logger = Logger.getLogger(UserFirstIdStorageProviderFactory.class);
     @Override
