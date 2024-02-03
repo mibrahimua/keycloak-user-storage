@@ -1,4 +1,4 @@
-package com.mibrahimuadev.model;
+package com.ulil.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

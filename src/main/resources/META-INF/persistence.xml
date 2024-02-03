@@ -4,7 +4,7 @@
              xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd"
              version="3.0">
     <persistence-unit name="user-store" transaction-type="JTA">
-        <class>com.mibrahimuadev.model.Users</class>
+        <class>com.ulil.model.Users</class>
         <properties>
             <!-- Specify PostgreSQL dialect -->
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect " />

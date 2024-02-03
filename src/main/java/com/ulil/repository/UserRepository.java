@@ -1,6 +1,6 @@
-package com.mibrahimuadev.repository;
+package com.ulil.repository;
 
-import com.mibrahimuadev.model.Users;
+import com.ulil.model.Users;
 import org.keycloak.common.util.MultivaluedHashMap;
 import org.keycloak.component.ComponentModel;
 import org.keycloak.models.KeycloakSession;

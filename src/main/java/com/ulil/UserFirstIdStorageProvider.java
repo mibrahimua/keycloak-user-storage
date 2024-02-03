@@ -1,7 +1,7 @@
-package com.mibrahimuadev;
+package com.ulil;
 
-import com.mibrahimuadev.model.Users;
-import com.mibrahimuadev.repository.UserRepository;
+import com.ulil.model.Users;
+import com.ulil.repository.UserRepository;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import org.jboss.logging.Logger;
